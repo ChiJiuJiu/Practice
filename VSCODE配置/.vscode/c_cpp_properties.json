@@ -1,0 +1,52 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "compilerPath": "D:/LLVM/bin/gcc.exe",
+            "intelliSenseMode": "clang-x64",
+            "includePath": [
+                "${workspaceFolder}",
+                "D:/LLVM/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++",
+                "D:/LLVM/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/x86_64-w64-mingw32",
+                "D:/LLVM/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/backward",
+                "D:/LLVM/lib/gcc/x86_64-w64-mingw32/7.2.0/include",
+                "D:/LLVM/include",
+                "D:/LLVM/x86_64-w64-mingw32/include",
+                "D:/LLVM/lib/gcc/x86_64-w64-mingw32/7.2.0/include-fixed",
+                "D:/LLVM/lib/gcc/x86_64-w64-mingw32/7.2.0/include/ssp",
+                "D:/LLVM/lib/gcc/x86_64-w64-mingw32/7.2.0/finclude",
+                "D:/LLVM/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/tr1",
+                "D:/LLVM/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/ext",
+                "D:/LLVM/x86_64-w64-mingw32/include/sec_api"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "__GNUC__=7",
+                "__cdecl=__attribute__((__cdecl__))"
+            ],
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "D:/LLVM/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++",
+                    "D:/LLVM/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/x86_64-w64-mingw32",
+                    "D:/LLVM/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/backward",
+                    "D:/LLVM/lib/gcc/x86_64-w64-mingw32/7.2.0/include",
+                    "D:/LLVM/include",
+                    "D:/LLVM/x86_64-w64-mingw32/include",
+                    "D:/LLVM/lib/gcc/x86_64-w64-mingw32/7.2.0/include-fixed",
+                    "D:/LLVM/lib/gcc/x86_64-w64-mingw32/7.2.0/include/ssp",
+                    "D:/LLVM/lib/gcc/x86_64-w64-mingw32/7.2.0/finclude",
+                    "D:/LLVM/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/tr1",
+                    "D:/LLVM/lib/gcc/x86_64-w64-mingw32/7.2.0/include/c++/ext",
+                    "D:/LLVM/x86_64-w64-mingw32/include/sec_api"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            },
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
